@@ -15,6 +15,13 @@ import Exercise12 from './components/component12/Exercise12';
 import Exercise13 from './components/component13/Exercise13';
 import Exercise14 from './components/component14/Exercise14';
 import Exercise15 from './components/component15/Exercise15';
+import Exercise16 from './components/component16/Exercise16';
+import Exercise17 from './components/component17/Exercise17';
+import Exercise18 from './components/component18/Exercise18';
+import Exercise19 from './components/component19/Exercise19';
+import Exercise20 from './components/component20/Exercise20';
+import Exercise21 from './components/component21/Exercise21';
+import Exercise22 from './components/component22/Exercise22';
 function App() {
   return (
     <div className="App">
@@ -36,6 +43,11 @@ function App() {
       <Exercise13/>    
       <Exercise14/>
       <Exercise15/>
+      <Exercise16/>
+      <Exercise17/>
+      <Exercise18/>
+      <Exercise19/>
+    
 
     </div>
   );
