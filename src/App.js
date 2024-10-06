@@ -22,6 +22,10 @@ import Exercise19 from './components/component19/Exercise19';
 import Exercise20 from './components/component20/Exercise20';
 import Exercise21 from './components/component21/Exercise21';
 import Exercise22 from './components/component22/Exercise22';
+import Exercise23 from './components/component23/Exercise23';
+import Exercise24 from './components/component24/Exercise24';
+import Exercise25 from './components/component25/Exercise25';
+import Exercise26 from './components/component26/Exercise26';
 function App() {
   return (
     <div className="App">
@@ -47,6 +51,14 @@ function App() {
       <Exercise17/>
       <Exercise18/>
       <Exercise19/>
+      <Exercise20/>
+      <Exercise21/>
+      <Exercise22/>
+      <Exercise23/>
+      <Exercise24/>
+      <Exercise25/>
+      <Exercise26/>
+
     
 
     </div>
